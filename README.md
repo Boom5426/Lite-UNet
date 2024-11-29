@@ -13,7 +13,6 @@ Cell localization constitutes a fundamental research domain within the realm of 
 
 # Datasets
 - Download all dataset from [Google-Drive](https://drive.google.com/drive/folders/1jlt9UtApF1GM28PjVwA933kfgbNSZD01?usp=drive_link)
-![avatar](./image/cell_dataset.png)
 
 
 
