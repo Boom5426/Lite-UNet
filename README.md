@@ -1,5 +1,5 @@
 # Lite-UNet-A-Lightweight-and-Efficient-Network-for-Cell-Localization
-The code of paper: [Lite-UNet: A Lightweight and Efficient Network for Cell Localization](https://www.techrxiv.org/articles/preprint/Lite-UNet_A_Lightweight_and_Efcient_Network_for_Cell_Localization/23549910)
+The code of paper: [Lite-UNet: A Lightweight and Efficient Network for Cell Localization](https://www.sciencedirect.com/science/article/pii/S0952197623018183#da1)
 
 
 Refer to [https://github.com/Boom5426/MHFAN/blob/main/Networks/UNet/Lite-UNet.py](https://github.com/Boom5426/MHFAN/blob/main/Networks/UNet/Lite-UNet.py)
