@@ -11,3 +11,24 @@ Cell localization constitutes a fundamental research domain within the realm of 
 ![2](https://github.com/Boli-trainee/Lite-UNet/assets/83391363/98ba6c91-267b-4ad3-8059-11b9e2096781)
 
 
+# Datasets
+- Download all dataset from [Google-Drive](https://drive.google.com/drive/folders/1jlt9UtApF1GM28PjVwA933kfgbNSZD01?usp=drive_link)
+![avatar](./image/cell_dataset.png)
+
+
+
+# Reference
+If you find this project is useful for your research, please cite:
+```
+
+@article{li2024lite,
+  title={Lite-UNet: A lightweight and efficient network for cell localization},
+  author={Li, Bo and Zhang, Yong and Ren, Yunhan and Zhang, Chengyang and Yin, Baocai},
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={129},
+  pages={107634},
+  year={2024},
+  publisher={Elsevier}
+}
+
+```
